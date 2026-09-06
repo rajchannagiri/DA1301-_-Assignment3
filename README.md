@@ -8,3 +8,5 @@ i am from bangalore
 * it is useful for discussions *
 ### useful git command 
 i like the push command because it saves the changes 
+### What I Learned
+I am learning how Git and GitHub work together.
